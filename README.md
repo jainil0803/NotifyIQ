@@ -1,4 +1,4 @@
-# 🌌 AURORA: Intelligent User Notification System
+# 🌌 NOTIFYIQ: Intelligent User Notification System
 
 > **Three-stage AI pipeline** that orchestrates behavioral segmentation → message generation → personalized delivery
 
